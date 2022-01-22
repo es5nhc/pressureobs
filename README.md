@@ -19,7 +19,7 @@ The observations were carried out in Laguja, Estonia (58.16°N, 26.45°E) with t
 There may be occasional spikes in the data due to accidentally moving the phone, especially around the start/end of the data fail. It is advisable that the observations be referenced against other sources. The air pressure is not reduced to sea level and is depicted as it came out of the phone at the time. Initially I was collecting data at 1 Pa resolution, later I switched to 10 mPa resolution. Use data at your own risk, no guarantees!
 
 ## Data usage
-Feel free to play around with the data, but give credit to me as well if you manage to manage to publish something out of it.
+The data is in the public domain. Feel free to play around with the data, but I would still appreciate if you give credit to me as well if you manage to publish something out of it.
 
 ## Contact
 
