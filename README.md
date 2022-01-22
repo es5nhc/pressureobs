@@ -1,4 +1,4 @@
-# High density air pressure observations using an old smartphone.
+# High temporal resolution air pressure observations using an old smartphone.
 
 This repository contains air pressure observations carried out using an old Samsung Galaxy S9 Plus smartphone using an app called AndroSensor. The data extracted from the apps logs have been converted to a CSV format contaning the UTC time stamp as seconds from the Unix epoch as well as the air pressure value. 
 
